@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Addon Author="Dullone" APIVersion="9" Name="ETooltip" Description="Adds extra information to item tooltips">
+<Addon Author="Dullone" APIVersion="10" Name="ETooltip" Description="Adds extra information to item tooltips">
     <Form Name="Libs/GeminiColor/GeminiColor.xml"/>
     <Script Name="Libs/GeminiColor/GeminiColor.lua"/>
     <Script Name="Libs/LibApolloFixes/LibApolloFixes-1.0.lua"/>
